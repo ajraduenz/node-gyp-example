@@ -1,0 +1,9 @@
+Install Visual Studio with "Desktop development with C++" workload.
+
+Install node-gyp
+command: npm install -g node-gyp
+
+Compile with node-gyp
+Command: node-gyp configure build
+
+Execute: node index.js
